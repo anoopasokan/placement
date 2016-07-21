@@ -1,2 +1,4 @@
 # placement
-job preparation
+#job preparation
+
+# most of the programs are written in java. 
