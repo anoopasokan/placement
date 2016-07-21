@@ -1,4 +1,4 @@
-//package job;
+/*java program to find xor of consecutive numbers in range [m, n]*/
 
 import java.util.*;
 
